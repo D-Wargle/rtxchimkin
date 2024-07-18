@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rtxchimkin
+- 👋 Hi, I’m chimkin
 - 👀 I’m interested in ... Snowboarding and video games
 - 🌱 I’m currently learning ... HTML/PYTHON/CSHARP
 - 💞️ I’m looking to collaborate on ... Anything that will teach me new skills
